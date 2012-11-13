@@ -6,8 +6,8 @@ def is_member(lst, value):
 	for item in lst:
 		#print item, value
 		if item == value:
-			return value
-	return "nope"
+			return True
+	return False
 
 #print is_member(a, x)
 #print is_member(a, y)
