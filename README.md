@@ -14,5 +14,5 @@ Python-exercises
 * git status # verteld wat er nu gestaged is en wat er veranderd is
 
 
-overlapping.py is nog niet af!
+debugger:
 import pdb; pdb.set_trace()
