@@ -1,6 +1,6 @@
 Python-exercises
 ================
-<a href="http://www.ling.gu.se/~lager/python_exercises.html">46 exercises</a>
+<a href="http://www.ling.gu.se/~lager/python_exercises.html" target="_blank">46 exercises</a>
 
 * git init #initieerd git in de map waar je zit
 * git remote add origin [linkje repository] #linkt hem aan je git repository
