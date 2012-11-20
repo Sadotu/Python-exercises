@@ -1,13 +1,10 @@
 import random
 
 def filter_words(lst, n):
-	list_n = map(len, lst)
 	output = []
-	x = 0
-	for item in list_n:
-		if item >= n:
-			output.append(lst[x])
-		x = x + 1
+	for item in lst:
+		if len(item) >= n:
+			output.append(item)
 	return n, output
 
 if __name__ == "__main__":
