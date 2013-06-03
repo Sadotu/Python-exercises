@@ -1,5 +1,3 @@
-import random
-
 def max_two(one, two):
 	if one > two:
 		return one
