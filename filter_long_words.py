@@ -1,9 +1,7 @@
 def filter_long_words(word):
-	output = []
 	n = 4
 	print n
 	if len(word) > n:
-		output.append(word)
 		return True
 	return False
 
